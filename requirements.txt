@@ -3,7 +3,6 @@ datetime
 folium
 ipython
 itables
-json
 jupyter-book
 logging
 matplotlib
