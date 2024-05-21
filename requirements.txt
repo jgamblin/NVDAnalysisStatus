@@ -1,12 +1,17 @@
 calplot
+datetime
 folium
 geopy
+glob
 ipython
 itables
+json
 jupyter-book
+logging
 matplotlib
 numpy
 pandas
 plotly
 pyarrow
 seaborn
+warnings
