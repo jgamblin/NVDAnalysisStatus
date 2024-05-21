@@ -11,4 +11,3 @@ pandas
 plotly
 pyarrow
 seaborn
-warnings
