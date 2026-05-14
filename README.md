@@ -16,7 +16,7 @@ On February 15, 2024, NVD announced they would be reducing their CVE analysis ef
 ## 🔄 Auto-Updated Every 6 Hours
 
 Data is automatically refreshed via GitHub Actions, pulling the latest CVE data from the NVD. 
-
+t
 ## 📈 View the Report
 
 Open **[NVDVulnStatus.ipynb](NVDVulnStatus.ipynb)** to see the latest analysis with interactive charts and statistics.
